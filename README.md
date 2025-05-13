@@ -2,7 +2,9 @@
 <h3 align="center">🚀 Aspiring Full-Stack Developer | 💻 Future Engineer | 🇪🇹 Based in Ethiopia</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Developer Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Male Developer Animation">
+</p>
+
 </p>
 
 ---
@@ -51,14 +53,15 @@ nodejs
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Misikerr&show_icons=true&theme=gruvbox" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Misikerr&theme=gruvbox" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Simagegn&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simagegn&theme=radical" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misikerr&layout=compact&theme=gruvbox" width="47%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Misikerr&theme=onedark&column=4" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simagegn&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Simagegn&theme=radical&column=4" width="47%" />
 </p>
+
 
 ---
 
