@@ -43,8 +43,8 @@ nodejs
 
 <table>
 <tr>
-  <td>🏨 Hospital patient Management System</td>
-<td>Restaurant Order Management  system<td>
+  <td>🏨 Hospital patient Management System(c++)</td>
+<td>Restaurant Order Management system<td>
 </tr>
 </table>
 
